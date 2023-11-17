@@ -3,7 +3,7 @@
 // Declare a label `sum` with the keyword `let` and assign it a value of 0.
 1. `let sum = 0;`
 
-// Declare a label `myGrades` with the key word `const` and assign it to an array of three numbers.
+// Declare a label `myGrades` with the keyword `const` and assign it to an array of three numbers.
 
 2. `const myGrades = [50, 75, 100];`
 
