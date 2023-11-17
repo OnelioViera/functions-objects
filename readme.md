@@ -1,4 +1,4 @@
-# Fuctions and Objects
+# Functions and Objects
 
 // Declare a label `sum` with the keyword `let` and assign it a value of 0.
 1. `let sum = 0;`
